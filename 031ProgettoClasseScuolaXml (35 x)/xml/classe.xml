@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classeXmlMano nome="">
+    <allievo cognome="Rossi" nome="Mario">
+        <informatica>7</informatica>
+        <matematica>5</matematica>
+        <storia>6</storia>
+    </allievo>
+    <allievo cognome="Rossi" nome="Mario">
+        <informatica>7</informatica>
+        <matematica>5</matematica>
+        <storia>6</storia>
+    </allievo>
+    <allievo cognome="Rossi" nome="Mario">
+        <informatica>7</informatica>
+        <matematica>5</matematica>
+        <storia>6</storia>
+    </allievo>
+</classeXmlMano>

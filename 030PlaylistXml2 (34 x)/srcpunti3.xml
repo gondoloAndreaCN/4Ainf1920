@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lettore>
+    <percorso nome="p1">
+        <brano1>100</brano1>
+        <brano2>100</brano2>
+    </percorso>
+    <percorso nome="p2">
+        <brano1>200</brano1>
+        <brano2>400</brano2>
+    </percorso>
+    <percorso nome="p3">
+        <brano1>300</brano1>
+        <brano2>800</brano2>
+    </percorso>
+    <percorso nome="p4">
+        <brano1>400</brano1>
+        <brano2>1400</brano2>
+    </percorso>
+</lettore>

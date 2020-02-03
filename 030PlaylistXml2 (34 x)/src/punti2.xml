@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lettore>
+	<playlist nome="p1">
+		<cordx>100</cordx>
+		<cordy>100</cordy>
+	</playlist>
+	<playlist nome="p2">
+		<cordx>200</cordx>
+		<cordy>400</cordy>
+	</playlist>
+	<playlist nome="p3">
+		<cordx>300</cordx>
+		<cordy>800</cordy>
+	</playlist>
+	<playlist nome="p4">
+		<cordx>400</cordx>
+		<cordy>1400</cordy>
+	</playlist>
+</lettore>
