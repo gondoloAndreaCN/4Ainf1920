@@ -26,24 +26,24 @@ public class Finestra extends  JFrame implements ActionListener {
     }
 
     @Override
-    public void actionPerformed(ActionEvent e) {
-        if (e.getSource() == button1){
+    public void actionPerformed(ActionEvent action) {
+        if (action.getSource() == button1){
             button1.setText(toggle(button1.getText()));
-        } else if (e.getSource() == button2){
+        } else if (action.getSource() == button2){
             button2.setText(toggle(button2.getText()));
-        } else if (e.getSource() == button3){
+        } else if (action.getSource() == button3){
             button3.setText(toggle(button3.getText()));
-        } else if (e.getSource() == button4){
+        } else if (action.getSource() == button4){
             button4.setText(toggle(button4.getText()));
-        } else if (e.getSource() == button5){
+        } else if (action.getSource() == button5){
             button5.setText(toggle(button5.getText()));
-        } else if (e.getSource() == button6){
+        } else if (action.getSource() == button6){
             button6.setText(toggle(button6.getText()));
-        } else if (e.getSource() == button7){
+        } else if (action.getSource() == button7){
             button7.setText(toggle(button7.getText()));
-        } else if (e.getSource() == button8){
+        } else if (action.getSource() == button8){
             button8.setText(toggle(button8.getText()));
-        } else if (e.getSource() == button9){
+        } else if (action.getSource() == button9){
             button9.setText(toggle(button9.getText()));
         }
     }
